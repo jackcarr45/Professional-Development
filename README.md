@@ -1,2 +1,4 @@
-# Professional_Development
+# Professional Development
 Documenting my progress in obtaining professional certifications, as part of my career journey in data.
+
+## Summary
